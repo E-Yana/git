@@ -32,4 +32,4 @@ print(df)
 df.to_csv("python_web_tag.csv", index=None, encoding="utf-8-sig")
 #df.to_excel("python_web_tag.xlsx", index=None, encoding="utf-8-sig")
 
-#加筆
+#加筆2
